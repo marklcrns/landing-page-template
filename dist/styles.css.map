@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAQ,2FAAA","file":"styles.css","sourcesContent":["@import url(\"https://fonts.googleapis.com/css?family=Playfair+Display|Roboto&display=swap\");\n$base-color: #f69314;\n$text-color: #777;\n\n/* START: global styles */\n/* END: global styles */\n"]}
